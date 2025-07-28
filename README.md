@@ -43,5 +43,10 @@ with clear explanations, proper documentation, and **on-time delivery**.
 
 ---
 
- **Connect with me:**  
-[Your LinkedIn Link] | [Your Email] | [Optional: GitHub Pages link if you create one]  
+ **Connect with me:**
+ 
+    📧 Email: Amal3122006@gmail.com
+    💼 LinkedIn: linkedin.com/in/Amal31256
+    💻 GitHub: github.com/Amal3122006
+
+  
