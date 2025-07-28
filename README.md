@@ -1,4 +1,4 @@
-# I'm [Amal Feras]  
+# I'm Amal Feras  
 
 ## About Me  
 I am a passionate programmer with experience in **Java** and **Python**.  
