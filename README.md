@@ -17,10 +17,10 @@ I have gained practical experience in Java and Python through coursework and per
 ---
 
 ##  Skills  
-- # Technical Skills
+- ### Technical Skills
 - Programming Languages: Java, Python
 - Writing clean and well-documented code 
-- # Soft Skills  
+- ### Soft Skills  
 - Communication
 - TeamWork
 - Problem Solving 
